@@ -22,7 +22,7 @@ This tool aims to help players make informed opening choices by presenting compl
 
 ## 4. Weekly Plan (4 Weeks, 3 Members)
 
-* **Team:** Vu Ai Thanh (Lead Dev), Tran Khanh Bang (Developer), Ha Minh Dung (Support/Docs).
+* **Team:** Vu Ai Thanh (Lead Dev), Tran Khanh Bang (Developer), Ha Minh Dung (Developer).
 
 | Week  | Focus                                   | Key Tasks & Lead Responsibility (Thanh/Bang/Dung)                                                                          |
 | :---- | :-------------------------------------- | :------------------------------------------------------------------------------------------------------------------------- |
@@ -31,6 +31,4 @@ This tool aims to help players make informed opening choices by presenting compl
 | **3** | **Frontend Development & Integration** | Build UI (HTML/CSS - Dung/Bang); Implement charting (Thanh); Connect frontend to data (Bang); Add interactivity.             |
 | **4** | **Testing, Refinement & Finalization** | Full testing (All); Bug fixing (Bang/Thanh); UI/UX polish; Finalize README (Dung); Prepare submission (All).                |
 
-## 5. GitHub Repository
 
-A public GitHub repository will be created to host the project's proposal (`proposal.md`), source code, processed data (or generation scripts), and a comprehensive `README.md` file.
